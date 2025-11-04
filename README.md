@@ -41,18 +41,18 @@ Diseñada con componentes reutilizables, transiciones suaves y una experiencia i
 
 ## 🧩 Estructura de componentes
 
----
-
+```text
 src/
 ├── App.jsx                # Componente principal
 ├── data.js                # Datos de los lugares disponibles
 ├── loc.js                 # Funciones de geolocalización y distancia
 ├── assets/                # Imágenes y recursos
 ├── components/
-│   ├── Places.jsx         # Lista de lugares (seleccionados / disponibles)
-│   ├── Modal.jsx          # Componente modal reutilizable
-│   ├── DeleteConfirmation.jsx  # Confirmación de eliminación con temporizador
-│   ├── ProgressBar.jsx    # Barra de progreso visual
+│   ├── Places.jsx              # Lista de lugares (seleccionados / disponibles)
+│   ├── Modal.jsx               # Componente modal reutilizable
+│   ├── DeleteConfirmation.jsx # Confirmación de eliminación con temporizador
+│   ├── ProgressBar.jsx         # Barra de progreso visual
+
 
 ---
 
