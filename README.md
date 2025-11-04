@@ -55,7 +55,7 @@ src/
 │   ├── DeleteConfirmation.jsx  # Confirmación de eliminación con temporizador
 │   ├── ProgressBar.jsx    # Barra de progreso visual
 
-````
+```
 
 ---
 
