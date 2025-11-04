@@ -42,7 +42,6 @@ Diseñada con componentes reutilizables, transiciones suaves y una experiencia i
 
 ## 🧩 Estructura de componentes
 
-```
 
 src/
 ├── App.jsx                # Componente principal
