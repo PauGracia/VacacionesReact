@@ -65,7 +65,7 @@ src/
    ```bash
    git clone https://github.com/tuusuario/placepicker.git
    cd placepicker
-````
+```
 
 2. **Instala las dependencias**
 
