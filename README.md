@@ -1,5 +1,4 @@
 
-```markdown
 # 🗺️ PlacePicker — Tu colección personal de lugares 🌍
 
 **PlacePicker** es una aplicación interactiva construida con **React** que te permite crear tu propia colección de lugares que te gustaría visitar (o que ya visitaste).  
@@ -42,6 +41,7 @@ Diseñada con componentes reutilizables, transiciones suaves y una experiencia i
 
 ## 🧩 Estructura de componentes
 
+---
 
 src/
 ├── App.jsx                # Componente principal
